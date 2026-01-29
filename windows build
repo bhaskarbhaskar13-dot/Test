@@ -15,4 +15,5 @@ jobs:
       - name: Run Build Script
         run: powershell -File build-windows.ps1
  executor: powershell
- 
+ git int
+eractive: true
